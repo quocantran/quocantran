@@ -73,3 +73,13 @@
   - **Production-Grade Observability** with Prometheus metrics, Promtail log scrubbing (PCI-DSS/GDPR redaction), Loki log aggregation, and custom Grafana alerting dashboards.
 
 ---
+
+### 📊 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=quocantran&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+### 📫 Let's Connect
+Email: quocan142536@gmail.com
